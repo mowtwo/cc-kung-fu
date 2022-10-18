@@ -1,7 +1,6 @@
 const 映射 = {
   set: '钦定',
   get: '一眼顶针',
-  delete: '泯灭',
   add: '加封',
   has: '似乎'
 }
@@ -26,9 +25,6 @@ class 哈希表 extends Map {
   }
   [绘('get')](...参) {
     return super.get(...参)
-  }
-  [绘('delete')](...参) {
-    return super.delete(...参)
   }
   [绘('has')](...参) {
     return super.has(...参)

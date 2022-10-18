@@ -1,6 +1,7 @@
 import { 哈希表, 阴阳, 引言, 构筑, 空 } from "./神言.js";
 
 const 点到为止 = 构筑(哈希表)
+
 const 化劲 = 引言(空)
 export function 化(
   武德
