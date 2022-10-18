@@ -1,0 +1,12 @@
+{
+  "name": "dec",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "启封": "node ./始源.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
